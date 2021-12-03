@@ -1,13 +1,16 @@
 <h2> ### Hi, I'm Tan Minh 👋 </h2>
+
+<br />
 🔭 I’m currently studying at FPT University
+<br />
 🌱 I’m currently learning more JavaScript
 
 <h3 align="center">
   <a href="https://github.com/Minh0105" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Minh0105?label=Github%20followers&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhduongt?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/Minh0105" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Minh0105&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+    <img src="https://komarev.com/ghpvc/?username=minhduongt&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>
 
