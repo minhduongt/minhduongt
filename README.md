@@ -2,6 +2,7 @@
 
 <br />
 🔭 I’m currently studying at FPT University
+<br />
 🌱 I’m currently learning more JavaScript
 <br />
   <a href="https://github.com/Minh0105" target="_blank">
