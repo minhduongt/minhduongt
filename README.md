@@ -5,11 +5,11 @@
 <br />
 🌱 I’m currently learning more JavaScript
 <br />
-  <a href="https://github.com/Minh0105" target="_blank">
+  <a href="https://github.com/minhduongt" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhduongt?label=Github%20followers&style=for-the-badge">
   </a>
   <br>
-  <a href="https://github.com/Minh0105" target="_blank">
+  <a href="https://github.com/minhduongt" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=minhduongt&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
 
