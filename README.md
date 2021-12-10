@@ -20,7 +20,7 @@ Project at school:
 -Java
 Art Shop Online group project - web app developement (MVC, JSP, Bootstrap, MSSQL)
 <br>
-Link: <a href="https://github.com/minhduongt/SWP.git">Bookstore Management</a>  
+Link: <a href="https://github.com/minhduongt/SWP.git">ArtShop Webapp</a>  
 </p>
 
 -C#
