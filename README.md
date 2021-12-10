@@ -15,7 +15,8 @@
 
 <br />
 
-Project at school
+Project at school:
+<br>
 -Java
 Art Shop Online group project - web app developement (MVC, JSP, Bootstrap, MSSQL)
 <br>
