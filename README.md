@@ -15,6 +15,17 @@
 
 <br />
 
+-Java
+Art Shop Online group project - web app developement (MVC, JSP, Bootstrap, MSSQL)
+Project at school
+Link <a href="https://github.com/minhduongt/SWP.git">Bookstore Management</a>  
+</p>
+
+-C#
+Book Management group project - web app development
+    (ASP.NET Core, Entity Framework, MVC, MSSQL)
+Link <a href="https://github.com/minhduongt/BookManagementWebApp.git">Bookstore Management</a>  
+
 ### Connect me via:
 
 [<img src = "https://img.shields.io/badge/facebook-darkblue.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/zes.minh.1)
