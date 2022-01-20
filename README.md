@@ -3,7 +3,7 @@
 <br />
 🔭 I’m currently studying at FPT University
 <br />
-🌱 I’m currently learning more JavaScript
+🌱 I’m currently learning more JavaScript and React
 <br />
   <a href="https://github.com/minhduongt" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhduongt?label=Github%20followers&style=for-the-badge">
