@@ -1,9 +1,9 @@
-<h2> ### Hi,I'm Tan Minh </h2>
+<h2> ### Hi there,Tan Minh here</h2>
 
 <br />
 🔭 I’m currently studying at FPT University
 <br />
-🌱 I’m currently learning more JavaScript and React
+🌱 I’m currently learning more JavaScript, React and C# .NET
 <br />
   <a href="https://github.com/minhduongt" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhduongt?label=Github%20followers&style=for-the-badge">
@@ -14,20 +14,6 @@
   </a>
 
 <br />
-
-Project at school:
-<br>
--Java
-Art Shop Online group project - web app developement (MVC, JSP, Bootstrap, MSSQL)
-<br>
-Link: <a href="https://github.com/minhduongt/SWP.git">ArtShop Webapp</a>  
-</p>
-
--C#
-Book Management group project - web app development
-    (ASP.NET Core, Entity Framework, MVC, MSSQL)
-      <br>
-Link: <a href="https://github.com/minhduongt/BookManagementWebApp.git">Bookstore Management</a>  
 
 ### Connect me via:
 
