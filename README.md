@@ -2,7 +2,9 @@
 
 <br />
 🎓 I’m graduated from FPT University
+<br />
 📜 I’m have 2 years of experience as a web developer and 1 year of mobile developer with Flutter
+<br />
 🔭 I’m currently working as a freeelancer
 <br />
 🌱 I’m currently focus on JavaScript, React JS, React Native, Node JS.
