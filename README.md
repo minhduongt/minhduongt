@@ -1,9 +1,11 @@
 <h2> ### Hi there,Tan Minh here</h2>
 
 <br />
-🔭 I’m currently studying at FPT University
+🎓 I’m graduated from FPT University
+📜 I’m have 2 years of experience as a web developer and 1 year of mobile developer with Flutter
+🔭 I’m currently working as a freeelancer
 <br />
-🌱 I’m currently focus on JavaScript, React.
+🌱 I’m currently focus on JavaScript, React JS, React Native, Node JS.
 <br />
   <a href="https://github.com/minhduongt" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/minhduongt?label=Github%20followers&style=for-the-badge">
