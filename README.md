@@ -1,9 +1,9 @@
 <h2> ### Hi there,Tan Minh here</h2>
 
 <br />
-🎓 I’m graduated from FPT University
+🎓 I have graduated from FPT University
 <br />
-📜 I’m have 2 years of experience as a web developer and 1 year of mobile developer with Flutter
+📜 I have 3 years of experience as a fullstack developer
 <br />
 🔭 I’m currently working as a full-time front-end developer. I'm also welcome freelance job. Feel free to contact me!
 <br />
